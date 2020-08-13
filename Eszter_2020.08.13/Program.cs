@@ -10,6 +10,7 @@ namespace Eszter_2020._08._13
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
