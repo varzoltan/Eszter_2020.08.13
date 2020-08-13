@@ -42,6 +42,9 @@ namespace Eszter_2020._08._13
             {
                 Console.WriteLine("A szám prímszám!");
             }
+
+            //13. A program írja ki, hogy a felhasználó által megadott szám osztóit, illetve, 
+            //hogy az adott számnak hány osztója van egyen és önmagán kívül.
             Console.ReadKey();
         }
     }
